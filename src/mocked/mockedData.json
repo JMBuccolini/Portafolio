@@ -1,0 +1,34 @@
+{ "data":
+    [
+        {
+            "title":"Aapresid",
+            "description":"Landing page para Aapresid. Realizada desde diseño hasta producción en tres semanas.",
+            "deploy":"https://www.aapresid.org.ar/es/conecta",
+            "repo":"https://github.com/JMBuccolini",
+            "id":1
+        },
+        
+        {
+            "title":"Prissma",
+            "description":"Sitio web para la empresa uruguaya Prissma. El sitio cuenta con múltiples secciones y cambio de lenguaje",
+            "deploy":"https://www.prissma.net/es",
+            "repo":"https://github.com/JMBuccolini",
+            "id":2
+        },
+        {
+            "title":"Cinergia Estudio",
+            "description":"Landing page para Cinergia Estudio Creativo. Desarrollada en Nextjs, utilizando GSAP y AOS para las animaciones",
+            "deploy":"https://landing.cinergiaestudiocreativo.com/",
+            "repo":"https://github.com/JMBuccolini",
+            "id":3
+        },
+        {
+            "title":"MELI-GAME",
+            "description":"Juego de cartas utilizando la API que ofrece Mercado Libre para postularse al bootcamp",
+            "deploy":"https://meli-game-vzy6.vercel.app/",
+            "repo":"https://github.com/JMBuccolini/MELI-GAME",
+            "id":4
+        }
+    ]
+
+}
